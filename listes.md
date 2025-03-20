@@ -532,8 +532,8 @@ Bien entendu, pour pouvoir utiliser `zip()`, il faut que les listes soient de m√
 
 1. [Argmax](ex4.1)
 2. [Intersection de listes](ex4.2)
-3. [Union de listes](ex4.3)
-```
+
+ ```
 l1=[2,5,8,12,14,3]
 l2=[3,1,-1]
 
@@ -552,3 +552,6 @@ print(intersection(l1,l2))
 
 
 ```
+  
+4. [Union de listes](ex4.3)
+
