@@ -203,7 +203,7 @@ Pour tous ces parcours de listes, il est conseillé d'utiliser des noms de varia
 Si cette valeur maximale est présente plusieurs fois dans la liste, on retournera l'indice de sa première occurrence.
 ```
 
-### correction
+### correction 1
 ```
 l =[5,12,48,-2,0,-48,5,12]
 def posmax(l):
