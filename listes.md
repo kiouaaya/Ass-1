@@ -555,13 +555,22 @@ print(intersection(l1,l2))
   
 4. [Union de listes](ex4.3)
    ```
+
+   
 ### Ex1
+```
 def verifier(l):
   for i in range(len(l)-1):
     if l[i]>l[i+1]:
       return False
   return True
 verifier([0, 5, 8, 8, 9])
+
+
+
+
+
+
 ```
 ### Ex2
 def dep1(l):
