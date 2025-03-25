@@ -555,7 +555,7 @@ print(intersection(l1,l2))
   
 4. [Union de listes](ex4.3)
    ```
-# Ex1
+### Ex1
 def verifier(l):
   for i in range(len(l)-1):
     if l[i]>l[i+1]:
@@ -563,7 +563,7 @@ def verifier(l):
   return True
 verifier([0, 5, 8, 8, 9])
 ```
-# Ex2
+### Ex2
 def dep1(l):
   d=dict()
   for i in l:
@@ -573,8 +573,6 @@ def dep1(l):
       d[i]=1
   return d
 print("sol 1", dep1(['A', 'A', 'A', 'B', 'C', 'B', 'C', 'B', 'C', 'B']))
-
-
 
 def dep2(l):
   d =dict()
