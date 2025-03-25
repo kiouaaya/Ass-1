@@ -572,7 +572,10 @@ verifier([0, 5, 8, 8, 9])
 
 
 ```
+
 ### Ex2
+
+```
 def dep1(l):
   d=dict()
   for i in l:
